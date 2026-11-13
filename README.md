@@ -64,7 +64,7 @@ These results represent the experiment's reported evaluation and may vary depend
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gasolineee/Real-Estate-Price-Prediction-Machine-Learning.git
+   git clone https://github.com/daukaaa17/Real-Estate-Price-Prediction-Machine-Learning.git
    ```
 
 2. Install the required libraries:
